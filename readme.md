@@ -11,12 +11,16 @@ scikit-learn==0.22.1
 (Harusnya latest version juga bisa)
 
 Di test di 12 threads Ryzen 5 3600, 16 GB RAM
+
 Duration (H:M:S): 00:50:01
+
 Private Score : 0.00941
+
 Public Score : 0.01137
 
 ## Data
 Data Kaggle CouponPP : https://www.kaggle.com/c/coupon-purchase-prediction/data
+
 Masukkan data Kaggle ke dalam folder input, kecuali : prefecture_locations.csv, pakai BOM-removed version yg disediakan
 
 ## Run
